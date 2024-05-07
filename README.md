@@ -1,14 +1,14 @@
 ![I am noob-ubaid](https://github.com/noob-ubaid/noob-ubaid/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h1 align="center">Hi 👋, I'm Ubaidur Rahman</h1>
+<h3 align="center">Programmer  | Speed Learner</h3>
+
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=noob-ubaid&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: HTML / CSS / jAVAsCRIPT /TypeScript / Web API / Sass / 
 
 </div>
 
@@ -18,7 +18,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 👨‍💻 All of my projects are available at [https://github.com/noob-ubaid](https://github.com/noob-ubaid)
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
+
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
