@@ -8,7 +8,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=noob-ubaid&color=red)
 
-Skills: HTML / CSS / jAVAsCRIPT /TypeScript / Web API / Sass / 
+Skills: HTML / CSS / JavaScript /TypeScript / Web API / Sass / 
 
 </div>
 
