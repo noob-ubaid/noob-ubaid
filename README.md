@@ -1,27 +1,19 @@
-![I am noob-ubaid](https://github.com/noob-ubaid/noob-ubaid/blob/main/code.png)
+<img src="https://github.com/noob-ubaid/noob-ubaid/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png?raw=true">
 
-<h1 align="center">Hi 👋, I'm Ubaidur Rahman</h1>
+
 <h3 align="center">Programmer  | Speed Learner</h3>
 
 
 <div align="center">
-
+  
 ![Profile views](https://komarev.com/ghpvc/?username=noob-ubaid&color=red)
-
-Skills: HTML / CSS / JavaScript /TypeScript / Web API / Sass / 
 
 </div>
 
-- 🔭 I’m currently learning Frontend Web Development
 
+## About Me
 
-
-- 👨‍💻 All of my projects are available at [https://github.com/noob-ubaid](https://github.com/noob-ubaid)
-
-
-
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
-
+Hi! I'm Ubaidur Rahman, a passionate MERN Stack Developer from Bangladesh. I'm currently learning full-stack web development with a focus on MongoDB, Express.js, React, and Node.js. I enjoy building responsive, user-friendly web applications and exploring the latest technologies in web development.
 
 
 
