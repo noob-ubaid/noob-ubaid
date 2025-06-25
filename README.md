@@ -55,6 +55,12 @@ Hi! I'm Ubaidur Rahman, a passionate MERN Stack Developer from Bangladesh. I'm c
 <hr/>
 <br/>
 
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/ubaidur-rahman01?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/yourusername](https://www.facebook.com/share/1FXDbMmv5i/))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]( https://x.com/UbaidurRah24983?t=vjNWYFSRUP9tX4kXrEOQJQ&s=08 )
+
+<hr/>
 ## Github Stats -
 
 <p align="center">
