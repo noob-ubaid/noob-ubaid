@@ -1,4 +1,4 @@
-<img src="https://github.com/noob-ubaid/noob-ubaid/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png?raw=true">
+<img src="https://github.com/noob-ubaid/noob-ubaid/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner%20(1).png">
 
 
 <h3 align="center">Programmer  | Speed Learner</h3>
